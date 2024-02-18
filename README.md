@@ -4,7 +4,7 @@
       <img src="src/assets/images/ralph.png" width="200"/>
    </p>
 </div>
-<p>Jogo <strong><i>point and click</i></strong> temático do filme "Detona Ralph", desenvolvido durante o bootcamp Potência Tech iFood - Desenvolvimento de Jogos, da DIO.</p>
+<p>Jogo <strong><i>point and click</i></strong> para navegador, temático do filme "Detona Ralph", desenvolvido durante o bootcamp Potência Tech iFood - Desenvolvimento de Jogos, da DIO.</p>
 
 ## 🌐 Tecnologias utilizadas
 
