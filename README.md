@@ -13,6 +13,6 @@
 - JavaScript
 
 ## 🎮 Como Jogar
-1. Clique aqui para ser direcionado(a) para o jogo.
+1. Clique [aqui](https://karlosekaminski.github.io/dio-detona-ralph-game/) para ser direcionado(a) para o jogo.
 2. **Para pontuar:** Clique na figura do Ralph, que aparecerá rapidamente entre as janelas
 3. **Atenção:** Faça o máximo de pontos antes que o tempo termine!
